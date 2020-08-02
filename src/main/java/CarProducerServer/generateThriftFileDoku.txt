@@ -1,0 +1,3 @@
+thrift dokumentation:
+
+.\thrift -gen java projectThrift.thrift
